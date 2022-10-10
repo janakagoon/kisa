@@ -199,5 +199,15 @@ As we have six equations with six scalar unknowns, the above equations will yiel
 
 These can be solved using one of many numerical linear algebra libraries that are available. 
 
+## Appendix D: Investor Site
+
+Interested in a pitch deck and the financials? Please  visit this site:
+
+![](https://janakagoon.github.io/dexterousactuators/assets/image/DA-logo.png)
+
+http://www.dexterousactuator.com
+
+
+/
 
 
