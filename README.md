@@ -203,8 +203,6 @@ These can be solved using one of many numerical linear algebra libraries that ar
 
 Interested in a pitch deck and the financials? Please  visit this site:
 
-![](https://janakagoon.github.io/dexterousactuators/assets/image/DA-logo.png)
-
 http://www.dexterousactuator.com
 
 
