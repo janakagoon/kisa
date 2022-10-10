@@ -50,7 +50,7 @@ Terms:
 | Lateral Pinch |![](https://github.com/janakagoon/kisa/blob/main/misc/grips/illustrations/16%20-%20Lateral%20Pinch.png?raw=true)| Power, Prehensile, Prismatic | No | |
 
 
-## How to Build a 32-Motor Motor Controller
+## Appendix B: How to Build a 32-Motor Motor Controller
 
 For the robotic actuator to perform grips, we need to power the motors in the arm in a coordinated manner. To enable this we built a programmable motor controller which can control up to 32 electric motors.
 
@@ -127,7 +127,7 @@ https://github.com/janakagoon/kisa/blob/main/lib/motion.go
 This was specific to the robotic end actuator, but you could probably copy and past parts of it for most other applications. 
 
 
-## Appendix B: Solution To The QR-Code Based Optical Configuration Detection Problem.
+## Appendix C: Solution To The QR-Code Based Optical Configuration Detection Problem.
 
 Optical configuration detection consists of three steps:
 
